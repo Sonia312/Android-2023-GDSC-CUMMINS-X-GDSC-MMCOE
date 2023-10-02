@@ -30,7 +30,6 @@
 
 <img width="203" alt="Screenshot 2023-10-02 at 2 38 44 PM" src="https://github.com/Google-Developer-Student-Club-CCOEW/Android-2023-GDSC-CUMMINS-X-GDSC-MMCOE/assets/56436897/203d7376-0111-4972-94ed-12dd0ecdbaf8">
 
-
 <img width="288" alt="Screenshot 2023-10-02 at 2 38 10 PM" src="https://github.com/Google-Developer-Student-Club-CCOEW/Android-2023-GDSC-CUMMINS-X-GDSC-MMCOE/assets/56436897/de2a7c74-dda9-4502-b0cf-540b38d9805e">
 
 
