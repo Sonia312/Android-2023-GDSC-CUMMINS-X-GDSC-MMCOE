@@ -50,21 +50,26 @@ Follow these steps to set up and run the project on your local machine for devel
 
 We encourage contributions from the community. To contribute to this project, follow these steps:
 
-1. Fork this repository to your GitHub account.
+1. Fork this repository to your GitHub account. (Dont Change name of Repository : keep it as it is)
 
 2. Clone your forked repository to your local machine.
 
    ```
-   git clone https://github.com/yourusername/basic-meme-generator-android.git
+   git clone https://github.com/yourusername/Android-2023-GDSC-CUMMINS-X-GDSC-MMCOE.git
    ```
 
-3. Create a new branch for your feature or bug fix:
+3. Open `/Mini-Projects\Basic-Meme-Generator` Android Studio
+
+4. Create a new project in android Studio and save in this folder 
+`/Mini-Projects\Basic-Meme-Generator`
+
+5. Create a new branch for your feature or bug fix:
 
    ```
    git checkout -b feature-name
    ```
 
-4. Make your changes, commit them, and push to your forked repository.
+6. Make your changes, commit them, and push to your forked repository.
 
    ```
    git add .
@@ -72,9 +77,9 @@ We encourage contributions from the community. To contribute to this project, fo
    git push origin feature-name
    ```
 
-5. Create a pull request (PR) from your forked repository to this main repository.
+7. Create a pull request (PR) from your forked repository to this main repository.
 
-6. We'll review your PR and provide feedback if needed. Once approved, your changes will be merged into the main project.
+8. We'll review your PR and provide feedback if needed. Once approved, your changes will be merged into the main project.
 
 ## License
 
