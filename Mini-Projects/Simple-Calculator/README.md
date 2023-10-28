@@ -2,6 +2,12 @@
 
 This Android app project aims to create a simple and user-friendly calculator that can perform basic mathematical operations, including addition, subtraction, multiplication, and division. This project is designed for beginners looking to practice Android app development with Java.
 
+
+## Output
+
+https://github.com/codewithdinesh/Android-2023-GDSC-CUMMINS-X-GDSC-MMCOE/assets/72983957/fb6de5fe-3395-4e63-b0c7-5807bebf9a10
+
+
 ## Features
 
 - **Basic Calculations:** Perform standard arithmetic operations like addition, subtraction, multiplication, and division.
